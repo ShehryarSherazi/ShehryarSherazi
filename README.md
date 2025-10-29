@@ -1,54 +1,146 @@
-# Hi — I'm Muhammed Shehryar Sherazi 👋
-**ML / AI Engineer** focused on building production-ready models and scalable ML systems.  
-I work with Python, PyTorch, TenseFlow, Transformers, LLMS, Agents and deploy models with FastAPI / Docker.
+<h1 align="center">👋 Hi, I'm Muhammad Shehryar Sherazi</h1>
+<p align="center">
+  <b>AI / ML Engineer | LLMs | Neural Networks | MLOps Enthusiast</b><br>
+  Building intelligent systems with Python, PyTorch, TensorFlow, and LangChain.
+</p>
+
+---
+<h2 align="center">🎯  Currently Working On</h2>
+
+<p align="center">
+  Multilingual heterogeneous document classification · Agentic AI systems · RAG pipelines  
+  <br>
+  Exploring scalable ML deployment and fine-tuning LLMs for real-world applications.
+</p>
 
 ---
 
-## 🔭 I’m currently
-working on multilingual heterogeneous document classification problem.
+<h2 align="center">💻 Tech Stack</h2>
 
----
-## 🛠️ Skills & Tools
-
-**Languages:**  
+<p align="center">
+  <!-- Core Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   
-  ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
----
-**Cloud / Deployment:**  
-  
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
----  
-**ML / DL:**  
-  
-  ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Transformers](https://img.shields.io/badge/Hugging%20Face-FFD43B?style=for-the-badge&logo=huggingface&logoColor=black)
----  
-**MLOps:**  
-  
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-        ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-        ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-        ![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white)
-        ![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-      
----
-## ⭐ Featured Projects
-- [End-to-end Churn Prediction](link-to-repo) — production-ready model + FastAPI + Docker  
-- [Image Classifier (PyTorch)](link-to-repo) — custom CNN, training scripts, metrics  
-- [RAG Chatbot](link-to-repo) — Retrieval-Augmented Generation w/ vector DB  
-- [MLOps Demo](link-to-repo) — DVC + MLflow + CI pipeline
+  <!-- Frameworks & Libraries -->
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/LangChain-1E90FF?style=for-the-badge&logo=chainlink&logoColor=white">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+  <img src="https://img.shields.io/badge/Hugging%20Face%20Spaces-FFD43B?style=for-the-badge&logo=huggingface&logoColor=black">
+
+  <!-- Tools & DevOps -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+</p>
 
 ---
-## 🌐 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-shehryar-sherazi-822854164/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.shehryarsherazi@gmail.com)
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<p align="center">
+  Here are some of my key Machine Learning & AI projects demonstrating my work with LLMs, Neural Networks, and Deployment.
+</p>
+
+---
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>🧾 RAG-Based Document Assistant</h3>
+      <p>
+        Built a <b>Retrieval-Augmented Generation (RAG)</b> system using <b>LangChain</b> and <b>OpenAI APIs</b> for answering domain-specific document queries.  
+        Includes <b>vector storage</b>, <b>context-aware retrieval</b>, and <b>Streamlit frontend</b>.
+      </p>
+      <p>
+        <a href="https://github.com/ShehryarSherazi/RAG-Document-Assistant">
+          🔗 View Repository
+        </a>
+      </p>
+      <img src="https://img.shields.io/badge/LangChain-1E90FF?style=flat-square&logo=chainlink&logoColor=white">
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white">
+    </td>
+    <td align="center" width="50%">
+      <h3>🧩 Multilingual Document Classifier</h3>
+      <p>
+        Developed a <b>heterogeneous document classification pipeline</b> supporting multiple languages using <b>TensorFlow</b> and <b>scikit-learn</b>.  
+        Designed preprocessing for PDFs, text, and CSVs; deployed as an API.
+      </p>
+      <p>
+        <a href="https://github.com/ShehryarSherazi/Multilingual-Document-Classifier">
+          🔗 View Repository
+        </a>
+      </p>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+    </td>
+  </tr>
+</table>
+
+---
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>🧠 Neural Network Visualizer</h3>
+      <p>
+        Created an interactive tool to <b>visualize neural network layers</b> and activations using <b>Streamlit</b>.  
+        Helps beginners understand forward propagation step-by-step.
+      </p>
+      <p>
+        <a href="https://github.com/ShehryarSherazi/NN-Visualizer">
+          🔗 View Repository
+        </a>
+      </p>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
+      <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white">
+    </td>
+    <td align="center" width="50%">
+      <h3>🤖 AI Resume Analyzer</h3>
+      <p>
+        Designed an <b>AI-powered resume screening app</b> using <b>Hugging Face Transformers</b> and <b>Streamlit</b>.  
+        Extracts key skills and matches them to job descriptions using NLP.
+      </p>
+      <p>
+        <a href="https://github.com/ShehryarSherazi/AI-Resume-Analyzer">
+          🔗 View Repository
+        </a>
+      </p>
+      <img src="https://img.shields.io/badge/Hugging%20Face-FFD43B?style=flat-square&logo=huggingface&logoColor=black">
+      <img src="https://img.shields.io/badge/Transformers-FF6F00?style=flat-square&logo=keras&logoColor=white">
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">
+    </td>
+  </tr>
+</table>
+
+---
+<h2 align="center">🚀 Featured Skills</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E">
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=keras&logoColor=white">
+  <img src="https://img.shields.io/badge/NLP-3C3C3D?style=for-the-badge&logo=spacy&logoColor=09A3D5">
+  <img src="https://img.shields.io/badge/LLMs-2E8B57?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/MLOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white">
+</p>
+
+---
+
+<h2 align="center">📫 Connect with Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shehryarsherazi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:m.shehryarsherazi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  </p>
 
 ---
 
