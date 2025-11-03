@@ -1,6 +1,9 @@
 <h1 align="center">👋 Hi, I'm Muhammad Shehryar Sherazi</h1>
 <p align="center">
-  <b>AI / ML Engineer | LLMs | Neural Networks | MLOps Enthusiast</b><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0F7FFF&center=true&vCenter=true&width=435&lines=AI%2FML+Engineer" alt="Typing SVG" />
+</p>
+<p align="center">
+  <b>LLMs | Neural Networks | MLOps Enthusiast</b><br>
   Building intelligent systems with Python, PyTorch, TensorFlow, and LangChain.
 </p>
 
